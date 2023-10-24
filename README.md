@@ -10,13 +10,13 @@
 <br><p align="center"><b>📊 GɪᴛHᴜʙ Sᴛᴀᴛs</b></p>
 
 <p align="center">
-<img src="https://github-stats-alpha.vercel.app/api/?username=Bikash-Maity&cc=000&tc=00ff00&ic=fff000&include_all_commits=true&count_private=true&bc=fff" align="center"></p></div>
+<img src="https://github-stats-alpha.vercel.app/api/?username=Bikash-KM&cc=000&tc=00ff00&ic=fff000&include_all_commits=true&count_private=true&bc=fff" align="center"></p></div>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Bikash-Maity&&show_icons=true&theme=highcontrast" align="center"></p> 
+<img src="https://github-readme-stats.vercel.app/api?username=Bikash-KM&&show_icons=true&theme=highcontrast" align="center"></p> 
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bikash-Maity&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact" align="center"></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bikash-KM&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact" align="center"></p>
 
 <div align="center">
 <br><p align="center"><b>☎️ Cᴏɴᴛᴀᴄᴛ Mᴇ</b></p>
