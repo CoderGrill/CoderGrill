@@ -1,4 +1,4 @@
-<p align="center" <img src="https://images.app.goo.gl/hiZnpZNy8CTJHsNH8"> align="center"</p>
+<img align="center" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"></img>
 
 <div align="center">
 <br><p align="center"><b>💻 Tᴇᴄʜ Sᴛᴀᴄᴋ</b></p>
