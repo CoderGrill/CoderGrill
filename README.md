@@ -1,4 +1,4 @@
-<img align="center" alt="Coding GIF" width="350" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"></img>
+<img align="center" alt="Coding GIF" width="350" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" align="center"></img>
 
 <div align="center">
 <br><p align="center"><b>💻 Tᴇᴄʜ Sᴛᴀᴄᴋ</b></p>
