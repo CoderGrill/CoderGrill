@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<img align="center" alt="Coding" width="400" src="https://www.google.com/search?q=animated%20coding%20gif%20for%20github&tbm=isch&client=ms-android-transsion&prmd=ivbn&hl=en-GB&sa=X&ved=0CCAQtI8BKAJqFwoTCJjb2uXgyIIDFQAAAAAdAAAAABAp&biw=360&bih=666#imgrc=uYYa30tHbsaH2M">
 
 <div align="center">
 <br><p align="center"><b>💻 Tᴇᴄʜ Sᴛᴀᴄᴋ</b></p>
@@ -10,15 +10,15 @@
 <br><p align="center"><b>📊 GɪᴛHᴜʙ Sᴛᴀᴛs</b></p>
 
 <p align="center">
-<img src="https://github-stats-alpha.vercel.app/api/?username=Bikash-KM&cc=000&tc=00ff00&ic=fff000&include_all_commits=true&count_private=true&bc=fff" align="center"></p></div>
+<img src="https://github-stats-alpha.vercel.app/api/?username=CoderGrill&cc=000&tc=00ff00&ic=fff000&include_all_commits=true&count_private=true&bc=fff" align="center"></p></div>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Bikash-KM&&show_icons=true&theme=highcontrast" align="center"></p> 
+<img src="https://github-readme-stats.vercel.app/api?username=CoderGrill&&show_icons=true&theme=highcontrast" align="center"></p> 
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bikash-KM&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact" align="center"></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoderGrill&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact" align="center"></p>
 
 <div align="center">
 <br><p align="center"><b>☎️ Cᴏɴᴛᴀᴄᴛ Mᴇ</b></p>
 
-[![Telegram](https://img.shields.io/badge/Telegram-%231877F2.svg?logo=Telegram&logoColor=white)](https://telegram.me/HeyyDarkLord) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/61550232132439) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/maitybikash_01) 
+[![Telegram](https://img.shields.io/badge/Telegram-%231877F2.svg?logo=Telegram&logoColor=white)](https://telegram.me/HeyDarkLordTG) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/61550232132439) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_bikash.maity_) 
