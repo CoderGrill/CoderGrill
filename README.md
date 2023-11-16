@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="400" src="https://www.google.com/search?q=animated%20coding%20gif%20for%20github&tbm=isch&client=ms-android-transsion&prmd=ivbn&hl=en-GB&sa=X&ved=0CCAQtI8BKAJqFwoTCJjb2uXgyIIDFQAAAAAdAAAAABAp&biw=360&bih=666#imgrc=uYYa30tHbsaH2M">
+<img align="center" alt="Coding" width="400" src="https://google.com/animated%20coding%20gif%20for%20github&tbm=isch&client=ms-android-transsion&prmd=ivbn&hl=en-GB&sa=X&ved=0CCAQtI8BKAJqFwoTCJjb2uXgyIIDFQAAAAAdAAAAABAp&biw=360&bih=666#imgrc=uYYa30tHbsaH2M">
 
 <div align="center">
 <br><p align="center"><b>💻 Tᴇᴄʜ Sᴛᴀᴄᴋ</b></p>
