@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=40&duration=3500&color=447FF7&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=Welcome+To+Bikash's+GitHub!+💐;I+am+Bikash+Maity!+😎;I+am+a+Small+Telegram+Bot+Developer+🧑‍💻;I+am+From+India+🇮🇳;Please+Support+and+Follow+🙏" alt="Bikash" width="650" height="55">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <div align="center">
 <br><p align="center"><b>💻 Tᴇᴄʜ Sᴛᴀᴄᴋ</b></p>
