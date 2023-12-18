@@ -21,4 +21,4 @@
 <div align="center">
 <b><p align="center"><b>☎️ Cᴏɴᴛᴀᴄᴛ Mᴇ</p></b>
 
-[![Telegram](https://img.shields.io/badge/Telegram-%231877F2.svg?logo=Telegram&logoColor=white)](https://telegram.me/HeyDarkLordTG) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/61550232132439) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_bikash.maity_) 
+[![Telegram](https://img.shields.io/badge/Telegram-%231877F2.svg?logo=Telegram&logoColor=white)](https://telegram.me/DARKL0RD_TG) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/61550232132439) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/maity.speaking_) 
